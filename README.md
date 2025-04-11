@@ -11,6 +11,6 @@ A simple and modern web app using **Next.js** and **Tailwind CSS**.
 ```bash
 npm install
 
-### 1. Run the application
+### 2. Run the application
 ```bash
 npm run dev
